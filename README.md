@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me:
 - linkedin-- https://www.linkedin.com/in/anmol-punj-826764195/
-- insta-- https://www.instagram.com/anmolpunj_24/
+- instagram-- https://www.instagram.com/anmolpunj_24/
 - twitter-- https://twitter.com/AnmolPunj1
 
 <!---
